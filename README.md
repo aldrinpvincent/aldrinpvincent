@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**aldrinpvincent/aldrinpvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Aldrin, an engineer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+- [Cache API Calls in JavaScript by Memoizing Promises](https://hackernoon.com/cache-api-calls-in-javascript-by-memoizing-promises)
+- [Reduce JS Bundle Size by Dynamically Importing es6 Modules](https://hackernoon.com/reduce-js-bundle-size-by-dynamically-importing-es6-modules)
+<!-- BLOG-POST-LIST:END -->
+
+<br>
