@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Aldrin, an engineer.
+I’m Aldrin.
 
 
 
