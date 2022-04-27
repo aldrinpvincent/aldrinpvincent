@@ -9,6 +9,8 @@ I’m Aldrin.
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [React 18 things : useDeferredValue](https://dev.to/aldrin/react-18-things-usedeferredvalue-35oj)
+- [React 18 things : Automatic Batching](https://dev.to/aldrin/react-18-things-automatic-batching-1of4)
 - [Cache API Calls in JavaScript by Memoizing Promises](https://hackernoon.com/cache-api-calls-in-javascript-by-memoizing-promises)
 - [Reduce JS Bundle Size by Dynamically Importing es6 Modules](https://hackernoon.com/reduce-js-bundle-size-by-dynamically-importing-es6-modules)
 <!-- BLOG-POST-LIST:END -->
